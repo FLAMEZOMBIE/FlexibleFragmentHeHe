@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FlexibleFragmentHeHe</string>
+
+    <string name="hello_blank_fragment">Kuhaku fragment</string>
+    <string name="this_profile">Activity Profile</string>
+    <string name="this_category">Fragment Category</string>
+    <string name="category_lifestyle">Fragment Lifestyle</string>
+    <string name="category_name">Category Name</string>
+    <string name="category_description">Category Description</string>
+    <string name="to_profile">Profile Activity</string>
+    <string name="show_dialog">Tampilkan sebuah dialog</string>
+    <string name="hello_home_fragment">Hello, This Home Fragment</string>
+    <string name="to_category">To Fragment Category</string>
+    <string name="question_killer">Siapa dalang di balik pembunuhan Munir??</string>
+    <string name="PKI">PKI</string>
+    <string name="Hitler">Hitler</string>
+    <string name="Pak_Harto">Pak Harto</string>
+    <string name="Stalin">Stalin</string>
+    <string name="choose">Choose Your Idol</string>
+    <string name="close">Close</string>
+</resources>
